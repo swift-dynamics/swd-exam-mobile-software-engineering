@@ -8,7 +8,7 @@ Please create a private GitHub repo and add Following username for access natcha
 
 Once done, please send us the repo link via email to the list from above follow the department that you apply position.
 
-If you have any questions, please feel free to contact us via Natchawan@swiftdynamics.co.th (HR) or natcha@swiftdynamics.co.th (Senior Software Engineer)
+If you have any questions, please feel free to contact us via hr@swiftdyanmics.co.th (HR) or natcha@swiftdynamics.co.th (Senior Software Engineer)
 
 ## Objectives
 
